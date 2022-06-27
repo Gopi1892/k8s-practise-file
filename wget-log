@@ -1,0 +1,50 @@
+Retrying.
+
+--2022-06-27 19:10:08--  (try: 9)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:10:14--  (try:10)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:10:14--  (try:11)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:10:14--  (try:12)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:10:14--  (try:13)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:10:14--  (try:14)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:11:23--  (try:15)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:12:48--  (try:16)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:14:13--  (try:17)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:15:38--  (try:18)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:17:03--  (try:19)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Retrying.
+
+--2022-06-27 19:18:28--  (try:20)  http://172.17.0.9/
+Connecting to 172.17.0.9:80... failed: Operation timed out.
+Giving up.
+
